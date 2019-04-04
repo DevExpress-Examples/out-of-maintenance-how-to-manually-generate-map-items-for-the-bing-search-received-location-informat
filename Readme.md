@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[MainWindow.xaml](./CS/MapControl_ManualSearch/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/MapControl_ManualSearch/MainWindow.xaml.vb))**
+* **[MainWindow.xaml](./CS/MapControl_ManualSearch/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MapControl_ManualSearch/MainWindow.xaml))**
 * [MainWindow.xaml.cs](./CS/MapControl_ManualSearch/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MapControl_ManualSearch/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to manually generate map items for the Bing Search received location information
